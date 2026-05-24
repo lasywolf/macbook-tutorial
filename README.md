@@ -31,7 +31,7 @@ MacBook 的快捷键主要有两个来源：
 
 安装完成后，先按 `Command + 空格` 打开 Spotlight，然后输入 `raycast`，按回车打开 Raycast。
 
-打开 Raycast 后，第一件事是把 Raycast 的入口快捷键设置成 `Command + 空格`。
+打开 Raycast 后，根据 Raycast 的引导教程，把入口快捷键修改成 `Command + 空格`。
 
 `Command + 空格` 非常常用。
 
