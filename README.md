@@ -25,6 +25,10 @@ MacBook 的快捷键主要有两个来源：
 
 打开这个网址下载安装：`https://www.raycast.com`
 
+下载后，把 Raycast 拖到 Applications 里完成安装。
+
+![Raycast 安装](./assets/raycast-install.png)
+
 安装 Raycast 后，第一件事是把 Raycast 的入口快捷键设置成 `Command + 空格`。
 
 `Command + 空格` 非常常用。
