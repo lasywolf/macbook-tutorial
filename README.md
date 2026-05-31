@@ -1,5 +1,7 @@
 # MacBook Tutorial 一小时掌握 MACBOOK
 
+[中文](./README.md) | [English](./README-en.md)
+
 这个教程的目标很简单：让新同学用一小时掌握 MacBook 的核心用法。
 
 它的价值不是让你多知道几个快捷键，而是让你在后面的日常工作和学习中少走很多弯路。花一小时把键盘、触控板、屏幕和 Raycast 用顺，后面可能会节省上百倍的时间，而且 MacBook 用起来也会更舒服、更愉悦。
